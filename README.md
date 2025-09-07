@@ -47,13 +47,13 @@
   <!-- Coding Profiles -->
   <div>
     <h3>💻 Coding Profiles</h3>
-    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <a href="https://leetcode.com/u/Kumaraswamy_02/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FF7A00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <a href="https://www.hackerrank.com/profile/19r21a0498" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
+    <a href="https://www.geeksforgeeks.org/user/kumarqwe944/" target="_blank">
       <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
     </a>
   </div>
